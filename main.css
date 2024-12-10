@@ -125,7 +125,7 @@ img{height:auto}iframe,img,object{max-width:100%}
 .comments .continue.comment-cancel-form a{background:none;border:none;box-shadow:none;color:inherit}
 .post-header-action-buttons{float:left;padding:40px 0 0}
 .post-header-action-buttons .action-button-wrapper{float:left;margin:0 20px 0 0}
-.post-header-action-buttons .action-button-wrapper a{align-items:center;border-radius:4px;display:flex;font-size:18px;gap:.5em;padding:10px}
+.post-header-action-buttons .action-button-wrapper a{align-items:center;border-radius:4px;display:flex;font-size:14px;gap:.5em;padding:10px}
 .post-header-action-buttons .action-button-wrapper a svg{fill:currentColor;height:1em}
 .post-header-action-buttons .change-cart-counter-button{bottom:95%;font-size:30px;left:2.8pc;line-height:1;position:absolute}
 .post-header-action-buttons .add-to-cart-down{bottom:auto;top:90%}
